@@ -1,4 +1,5 @@
 运行dist文件夹下的clientMain.exe或clientMain文件。第一次运行程序需要输入hub，你可以从"hub.txt"文件中任选一行。然后你可以输入以下命令：
+
     version              查看版本
     symbol               查看货币符号
     registerUser         注册一个用户
